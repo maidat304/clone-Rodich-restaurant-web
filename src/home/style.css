@@ -3,15 +3,12 @@ body {
 }
 
 .header-style {
-    font-size: large;
-    margin-inline-start: 10%;
-    margin-top: 1%;
+    font-size: small;
     font-weight: bold;
 }
 
 .list-inline {
     display: inline-block;
-    margin-top: 2%;
 }
 
 ul.list-inline li {
@@ -42,23 +39,23 @@ nav {
 }
 
 .nav-logo {
-    font-size: 400%;
+    font-size: 350%;
     font-family: z003;
     color: white;
 }
 
 .nav-logo:hover {
-    font-size: 400%;
+    font-size: 350%;
     font-family: z003;
     color: #CFA670;
 }
 
 .nav-menu {
-    font-size: 130%;
+    font-size: 100%;
 }
 
 ul.nav-menu li {
-    margin-inline-start: 5%;
+    margin-inline-start: 2%;
 }
 
 ul.nav-menu li a {
